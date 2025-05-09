@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Godwin Laryea</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<p>I’m currently a learner at the ALX ProDev Program where I’m deepening my skills in software engineering, system design, and real-world problem solving. I started this journey because of my passion for building impactful solutions
+I thrive in collaborative environments and constantly seek opportunities to grow, contribute, and create value through technology.
+
+🔧 Current focus: TypeScript and React JS
+🧠 Interests: Clean code, scalable systems, productivity tools, open-source contributions.
+🎯 My goal: To build solutions that solve real problems, learn from great minds, and make meaningful contributions to the tech space.
+
+Always open to connecting, learning, and collaborating!
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godwinlaryea&label=Profile%20views&color=0e75b6&style=flat" alt="godwinlaryea" /> </p>
 
