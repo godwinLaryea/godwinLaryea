@@ -3,7 +3,9 @@
 I thrive in collaborative environments and constantly seek opportunities to grow, contribute, and create value through technology.
 
 🔧 Current focus: TypeScript and React JS
+
 🧠 Interests: Clean code, scalable systems, productivity tools, open-source contributions.
+
 🎯 My goal: To build solutions that solve real problems, learn from great minds, and make meaningful contributions to the tech space.
 
 Always open to connecting, learning, and collaborating!
