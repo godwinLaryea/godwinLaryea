@@ -2,7 +2,7 @@
 <p>I’m currently a learner at the ALX ProDev Program where I’m deepening my skills in software engineering, system design, and real-world problem solving. I started this journey because of my passion for building impactful solutions
 I thrive in collaborative environments and constantly seek opportunities to grow, contribute, and create value through technology.
 
-🔧 Current focus: TypeScript and React JS
+🔧 Current focus: TypeScript, React and Next JS
 
 🧠 Interests: Clean code, scalable systems, productivity tools, open-source contributions.
 
